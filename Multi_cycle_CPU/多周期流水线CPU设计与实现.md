@@ -581,9 +581,9 @@
 
 #### 5级流水线CPU的电路图
 
-![cc83a6b26a484e24b09192079fc30fad](.\配图\cc83a6b26a484e24b09192079fc30fad.png)
+![cc83a6b26a484e24b09192079fc30fad](./配图/cc83a6b26a484e24b09192079fc30fad.png)
 
-![cdbd94581ab70f0e5a54382daca61c9](.\配图\cdbd94581ab70f0e5a54382daca61c9.png)
+![cdbd94581ab70f0e5a54382daca61c9](./配图/cdbd94581ab70f0e5a54382daca61c9.png)
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -1587,15 +1587,15 @@ endmodule
 
 ##### 仿真波形
 
-![27d8a7ce9032752ba8297ee4700a26d](.\配图\27d8a7ce9032752ba8297ee4700a26d.png)
+![27d8a7ce9032752ba8297ee4700a26d](./配图/27d8a7ce9032752ba8297ee4700a26d.png)
 
-![d27b48e9073ce6a807e07b1188a1799](.\配图\d27b48e9073ce6a807e07b1188a1799.png)
+![d27b48e9073ce6a807e07b1188a1799](./配图/d27b48e9073ce6a807e07b1188a1799.png)
 
-![1d7a0ceeba37e97ca47f57003b4c345](.\配图\1d7a0ceeba37e97ca47f57003b4c345.png)
+![1d7a0ceeba37e97ca47f57003b4c345](./配图/1d7a0ceeba37e97ca47f57003b4c345.png)
 
-![151268d8f91c0609a4e9e74f8390889](D:\UserDFile\中山大学学习资料\大二上\计算机组成与设计\23336331 郑思扬-多周期cpu\配图\151268d8f91c0609a4e9e74f8390889.png)
+![151268d8f91c0609a4e9e74f8390889](./配图/151268d8f91c0609a4e9e74f8390889.png)
 
-![4d36863b1dd0463d4ace366c82b0f80](.\配图\4d36863b1dd0463d4ace366c82b0f80.png)
+![4d36863b1dd0463d4ace366c82b0f80](./配图/4d36863b1dd0463d4ace366c82b0f80.png)
 
 #### 时钟分频模块---CLK slow
 
