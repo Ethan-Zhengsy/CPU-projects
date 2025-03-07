@@ -1,4 +1,4 @@
-![image-20241208145841852](./配图/image-20241208145841852.JPG)
+![image-20241208145841852](./配图/image-20241208145841852.jpg)
 
 <div STYLE="page-break-after: always;"></div>
 
